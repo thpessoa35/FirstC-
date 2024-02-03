@@ -1,0 +1,14 @@
+E:\EstudosC#\FisrtProject\bin\Debug\net8.0\FisrtProject.exe
+E:\EstudosC#\FisrtProject\bin\Debug\net8.0\FisrtProject.deps.json
+E:\EstudosC#\FisrtProject\bin\Debug\net8.0\FisrtProject.runtimeconfig.json
+E:\EstudosC#\FisrtProject\bin\Debug\net8.0\FisrtProject.dll
+E:\EstudosC#\FisrtProject\bin\Debug\net8.0\FisrtProject.pdb
+E:\EstudosC#\FisrtProject\obj\Debug\net8.0\FisrtProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\EstudosC#\FisrtProject\obj\Debug\net8.0\FisrtProject.AssemblyInfoInputs.cache
+E:\EstudosC#\FisrtProject\obj\Debug\net8.0\FisrtProject.AssemblyInfo.cs
+E:\EstudosC#\FisrtProject\obj\Debug\net8.0\FisrtProject.csproj.CoreCompileInputs.cache
+E:\EstudosC#\FisrtProject\obj\Debug\net8.0\FisrtProject.dll
+E:\EstudosC#\FisrtProject\obj\Debug\net8.0\refint\FisrtProject.dll
+E:\EstudosC#\FisrtProject\obj\Debug\net8.0\FisrtProject.pdb
+E:\EstudosC#\FisrtProject\obj\Debug\net8.0\FisrtProject.genruntimeconfig.cache
+E:\EstudosC#\FisrtProject\obj\Debug\net8.0\ref\FisrtProject.dll
